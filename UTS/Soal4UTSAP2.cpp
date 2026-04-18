@@ -25,6 +25,4 @@ int main() {
         cout << "Kekuatan mantra : " << jumlah << " vokal" << endl;
     else
         cout << "Mantra tidak valid! Tidak mengandung vokal." << endl;
-
-    return 0;
 }
