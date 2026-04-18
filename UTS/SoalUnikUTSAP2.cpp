@@ -29,6 +29,4 @@ int main() {
     }
 
     cout << "Jumlah judul buku: " << jumlah << endl;
-
-    return 0;
 }
