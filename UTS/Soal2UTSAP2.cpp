@@ -26,6 +26,4 @@ int main() {
     }
 
     cout << "Angka desimal dari biner " << biner << " adalah = " << desimal << endl;
-
-    return 0;
 }
